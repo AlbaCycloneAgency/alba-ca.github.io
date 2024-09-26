@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Rubik;
+}
+
+.navtopcentre {
+    width: 100%;
+    overflow: visible;
+}
+
+.navtopcontent {
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.bit {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+    display: inline;
+}
+
+.localforecast {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12.5px;
+    padding-bottom: 10px;
+    float: right;
+    display: inline;
+}
+
+.realrsmclinks {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+    display: inline;
+}
