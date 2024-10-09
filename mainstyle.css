@@ -39,3 +39,21 @@ body {
     float: left;
     display: inline;
 }
+
+.center {
+    width: 100%;
+    overflow: visible;
+}
+
+.tiny {
+    font-size: 9pt;
+    font-weight: normal;
+    color: #000000;
+}
+
+.content {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+}
