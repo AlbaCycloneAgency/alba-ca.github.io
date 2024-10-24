@@ -1,0 +1,40 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:nhc="https://www.nhc.noaa.gov" version="2.0">
+<channel>
+<pubDate>Thu, 24 Oct 2024 20:35:16 GMT</pubDate>
+<title>NHC North Atlantic Wallet 2 - Hurricane Yuri (AL722026)</title>
+<description>Latest advisories and graphics for Hurricane Yuri (AL72)</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<description>NOAA logo</description>
+<title>NHC North Atlantic Wallet 2 - Hurricane Yuri (AL722026)</title>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Summary for Hurricane Yuri (AL2/AL722026)</title>
+<guid isPermaLink="false">summary-al722026-20261003</guid>
+<pubDate>Thu, 3 Oct 2026 21:41:28 GMT</pubDate>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/242033.shtml</link>
+<description> ...YURI LIKELY PEAKED IN INTENSITY... ...CURRENTLY THE STRONGEST TROPICAL CYCLONE RECORDED ON THE PLANET... As of 5:00 PM EDT Thu Oct 24 the center of Kristy was located near 32.0, -34.6 with movement NW at 12 mph. The minimum central pressure was 787 mb with maximum sustained winds of about 310 mph. </description>
+<nhc:Cyclone>
+<nhc:center>32.0, -34.63</nhc:center>
+<nhc:type>HURRICANE</nhc:type>
+<nhc:name>Yuri</nhc:name>
+<nhc:wallet>AL1</nhc:wallet>
+<nhc:atcf>AL722026</nhc:atcf>
+<nhc:datetime>5:00 PM AST Thu 3 Oct</nhc:datetime>
+<nhc:movement>NW at 12 mph</nhc:movement>
+<nhc:pressure>787 mb</nhc:pressure>
+<nhc:wind>310 mph</nhc:wind>
+<nhc:headline>...YURI LIKELY PEAKED IN INTENSITY... ...CURRENTLY THE STRONGEST TROPICAL CYCLONE RECORDED ON THE PLANET...</nhc:headline>
+</nhc:Cyclone>
+</item>
+</channel>
+</rss>
